@@ -1,2 +1,4 @@
 # hello-world
-A repository for studying github.
+delete.
+write something in the new branch called readme-edits.
+ok.
